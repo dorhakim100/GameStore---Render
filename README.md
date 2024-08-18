@@ -52,8 +52,7 @@ Make sure you have the following installed:
 
 3. Set up your environment variables by creating a `.env` file in the root directory:
    ```
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret_key
+   MONGO_URI=Contect me to get Mongo URL
    ```
 
 ### Running the Application
